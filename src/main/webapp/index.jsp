@@ -5,6 +5,7 @@
 <body>
 	<h1>Hello Akshara Monkey!</h1>
 	<h2>werty</h2>
+	<img src ="" alt="iuytr"/>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
